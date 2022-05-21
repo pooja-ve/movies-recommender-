@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+movie recommender streamlit
+movie_dict.pkl
+movies.pkl
+similarity.pkl
+tmdb_5000_credits
+tmdb_5000_movies
